@@ -1,5 +1,7 @@
 python selenim example trying to figure out how to share a config dictionary established in conftest to be used in class and test files via pytest command line arguments
 
+make sure to have the chromedriver in your path
+
 clone the repo then in terminal install dependencies
 `pip install -r requirements`
 
